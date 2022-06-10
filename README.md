@@ -1,6 +1,6 @@
 # Dicedemic2022
 
-Play now at dicedemic.com
+Play now at [Dicedemic](https://dicedemic.netlify.app/)
 
 Inspired during the start of the pandemic in 2020, Dicedemic is a combination of Yahtzee + Dark Souls + Covid.
 
